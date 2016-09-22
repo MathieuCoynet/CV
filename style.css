@@ -1,0 +1,29 @@
+.image{
+	float:right;
+}
+h1 {
+	 text-align: center;
+	 font-size: 18 ;
+	 font-family: serif;
+}
+
+h2 {
+	 text-align: center;
+}
+
+.form {
+	font-size: 14;
+	font-family: arial;
+	font-style: oblique; 
+}
+
+.exp {
+	font-size: 14;
+	font-family: arial;
+	font-style: oblique; 
+}
+.comp {
+	font-size: 14;
+	font-family: arial;
+	font-style: oblique; 
+}
