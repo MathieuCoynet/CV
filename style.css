@@ -29,6 +29,8 @@ h2 {
 	border:5px white double;
 	top: 200px;
 	width: 500px;
+	margin: 30px;
+
 }
 
 .exp {
@@ -37,6 +39,7 @@ h2 {
 	font-style: oblique; 
 	border:5px white double;
 	width: 500px;
+	margin: 25px;
 }
 .comp {
 	font-size: 14px;
@@ -44,4 +47,5 @@ h2 {
 	font-style: oblique; 
 	border:5px white double;
 	width: 600px;
+	margin: 25px;
 }
