@@ -1,5 +1,5 @@
 body{
-	background-color: #7F1B1B;
+	background-color: ##A4A4A4;
 }
 
 .image{
@@ -17,7 +17,7 @@ h2 {
 }
 
 header {
-	border:8px white double;
+	border:8px black double;
 	position: : fixed;
 	top:12px;
 	width: 100px;
@@ -29,11 +29,11 @@ header {
 	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
-	border:5px white double;
+	border:5px black double;
 	top: 200px;
 	width: 500px;
 	margin: 30px;
-	background-color: #46A4EC; 
+	background-color: #6D9E9E; 
 
 }
 
@@ -41,17 +41,17 @@ header {
 	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
-	border:5px white double;
+	border:5px black double;
 	width: 500px;
 	margin: 25px;
-	background-color: #46A4EC; 
+	background-color: #E89D49; 
 }
 .comp {
 	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
-	border:5px white double;
+	border:5px black double;
 	width: 600px;
 	margin: 25px;
-	background-color: #46A4EC; 
+	background-color: #E89D49; 
 }
