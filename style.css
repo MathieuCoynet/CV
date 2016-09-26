@@ -16,7 +16,7 @@ h2 {
 	 text-align: center;
 }
 
-.header {
+header {
 	border:8px white double;
 	position: : fixed;
 	top:12px;
