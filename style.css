@@ -1,3 +1,7 @@
+body{
+	background-color: #7F1B1B;
+}
+
 .image{
 	float:right;
 }
@@ -11,19 +15,33 @@ h2 {
 	 text-align: center;
 }
 
+.header {
+	border:8px white double;
+	position: : fixed;
+	top:12px;
+	width: 100px;
+}
+
 .form {
-	font-size: 14;
+	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
+	border:5px white double;
+	top: 200px;
+	width: 500px;
 }
 
 .exp {
-	font-size: 14;
+	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
+	border:5px white double;
+	width: 500px;
 }
 .comp {
-	font-size: 14;
+	font-size: 14px;
 	font-family: arial;
 	font-style: oblique; 
+	border:5px white double;
+	width: 600px;
 }
